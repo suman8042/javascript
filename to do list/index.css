@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.baap{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 100px;;
+    background-color: antiquewhite;
+}
+.main{
+    display: flex;
+    height:20vh;
+    width:60vw;
+    background-color: rgb(225, 91, 82);
+}
+.store{
+    height:60vh;
+    width:60vw;
+    background-color: rgb(249, 192, 70); 
+}
+.write{
+    height:10vh;
+    width: 40vw;
+    background-color: aqua;
+    position: relative;
+    top:21px;
+    left:55px;
+}
+button{
+ 
+
+    height: 28px;
+    width: 122px;
+    position: relative;
+    top: 27px;
+    left: 137px;
+}
